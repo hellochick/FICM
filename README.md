@@ -51,7 +51,7 @@ python run.py --feat_learning flowS --env_kind mario
 python run.py --feat_learning flowS --env SeaquestNoFrameskip-v4 --seed 666
 ```
 
-### Citation
+### R
     @inproceedings{largeScaleCuriosity2018,
         Author = {Burda, Yuri and Edwards, Harri and
                   Pathak, Deepak and Storkey, Amos and
