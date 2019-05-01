@@ -1,5 +1,5 @@
 #### Status: Code is coming soon.
-## Exploration via flow-based intrinsic Rewards
+## Exploration via flow-based intrinsic rewards
 <center>
 <img src="./imgs/ficm_archi.png" width="900"></img>
 </center>
