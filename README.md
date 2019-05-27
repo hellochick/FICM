@@ -1,8 +1,7 @@
 #### Status: Archive.
 ## Exploration via flow-based intrinsic Rewards
 <center>
-<img src="./imgs/ficm_archi.png" width="900"></img>
-<img src="./imgs/ficm_archi1.png" width="900"></img>
+<img src="./imgs/workflow.jpg" width="800"></img>
 </center>
 
 ### [[Paper]](https://arxiv.org/abs/1905.10071) [[Demo Video]](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be)
