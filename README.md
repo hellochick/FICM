@@ -1,10 +1,13 @@
-#### Status: Code is coming soon.
+#### Status: Archive.
 ## Exploration via flow-based intrinsic Rewards
 <center>
 <img src="./imgs/ficm_archi.png" width="900"></img>
+<img src="./imgs/ficm_archi1.png" width="900"></img>
 </center>
 
-This is a TensorFlow based implementation for our paper on [exploration via flow-based intrinsic reward](https://arxiv.org/abs/1905.10071), and here is the [demo video](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be).
+### [[Paper]](https://arxiv.org/abs/1905.10071) [[Demo Video]](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be)
+
+This is a TensorFlow based implementation for our paper on [exploration via flow-based intrinsic reward](https://arxiv.org/abs/1905.10071).
 
 Flow-based intrinsic module (FICM) is used for evaluating the novelty of observations. FICM generates intrinsic rewards based on the prediction errors of optical flow estimation since the rapid change part in consecutive frames usually serve as important signals. 
 
@@ -52,11 +55,9 @@ python run.py --feat_learning flowS --env SeaquestNoFrameskip-v4 --seed 666
 ```
 
 ### Citation
-    @inproceedings{largeScaleCuriosity2018,
-        Author = {Burda, Yuri and Edwards, Harri and
-                  Pathak, Deepak and Storkey, Amos and
-                  Darrell, Trevor and Efros, Alexei A.},
-        Title = {Large-Scale Study of Curiosity-Driven Learning},
-        Booktitle = {arXiv:1808.04355},
-        Year = {2018}
+    @article{flowbasedcuriosity2019,
+        Author = {Hsuan-Kung Yang, Po-Han Chiang, Min-Fong Hong and Chun-Yi Lee.},
+        Title = {Exploration via Flow-Based Intrinsic Rewards},
+        Booktitle = {arXiv:1905.10071},
+        Year = {2019}
     }
