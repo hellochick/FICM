@@ -4,7 +4,7 @@
 <img src="./imgs/ficm_archi.png" width="900"></img>
 </center>
 
-This is a TensorFlow based implementation for our paper on [exploration via flow-based intrinsic reward (Coming soon, we'll have a poster in ICLR 2019 TARL workshop)]().
+This is a TensorFlow based implementation for our paper on [exploration via flow-based intrinsic reward](https://arxiv.org/abs/1905.10071), and here is the [demo video](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be).
 
 Flow-based intrinsic module (FICM) is used for evaluating the novelty of observations. FICM generates intrinsic rewards based on the prediction errors of optical flow estimation since the rapid change part in consecutive frames usually serve as important signals. 
 
