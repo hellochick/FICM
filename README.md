@@ -1,5 +1,5 @@
 #### Status: Code is coming soon.
-## Exploration via flow-based intrinsic rewards
+## Exploration via flow-based intrinsic Rewards
 <center>
 <img src="./imgs/ficm_archi.png" width="900"></img>
 </center>
@@ -51,7 +51,7 @@ python run.py --feat_learning flowS --env_kind mario
 python run.py --feat_learning flowS --env SeaquestNoFrameskip-v4 --seed 666
 ```
 
-### Reference
+### Citation
     @inproceedings{largeScaleCuriosity2018,
         Author = {Burda, Yuri and Edwards, Harri and
                   Pathak, Deepak and Storkey, Amos and
