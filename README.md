@@ -60,3 +60,12 @@ python run.py --feat_learning flowS --env SeaquestNoFrameskip-v4 --seed 666
         Booktitle = {arXiv:1905.10071},
         Year = {2019}
     }
+### Reference
+    @inproceedings{largeScaleCuriosity2018,
+        Author = {Burda, Yuri and Edwards, Harri and
+                  Pathak, Deepak and Storkey, Amos and
+                  Darrell, Trevor and Efros, Alexei A.},
+        Title = {Large-Scale Study of Curiosity-Driven Learning},
+        Booktitle = {arXiv:1808.04355},
+        Year = {2018}
+    }
