@@ -4,7 +4,7 @@
 <img src="./imgs/workflow.jpg" width="800"></img>
 </center>
 
-### [[Paper]](https://arxiv.org/abs/1905.10071) [[Demo Video]](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be)
+### [[Paper]](https://arxiv.org/abs/1905.10071) [[Demo Video]](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be) [[Reddit Discuss]](https://www.reddit.com/r/MachineLearning/comments/bu05ua/p_playing_supermario_bros_without_knowing_any/)
 
 This is a TensorFlow based implementation for our paper on [Exploration via Flow-Based Intrinsic Rewards](https://arxiv.org/abs/1905.10071).
 
