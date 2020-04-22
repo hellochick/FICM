@@ -6,7 +6,7 @@
 
 ### [[Paper (old version)]](https://arxiv.org/abs/1905.10071) [[Demo Video]](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be) [[Reddit Discuss]](https://www.reddit.com/r/MachineLearning/comments/bu05ua/p_playing_supermario_bros_without_knowing_any/)
 
-This is a TensorFlow-based implementation for our paper on [Flow-based Intrinsic Curiosity Module (FICM)](https://arxiv.org/abs/1905.10071).
+This is a TensorFlow-based implementation for our paper "Flow-based Intrinsic Curiosity Module".
 
 FICM is used for evaluating the novelty of observations, it generates intrinsic rewards based on the prediction errors of optical flow estimation since the rapid change part in consecutive frames usually serve as important signals. 
 
@@ -14,7 +14,17 @@ Without any external reward, FICM can help RL agent to play SuperMario successfu
 
 <img src="./imgs/animate2.gif" width="400"></img><img src="./imgs/animate.gif" width="400"></img>
 
-This repo is inherited from [large-scale-curiosity](https://github.com/openai/large-scale-curiosity), and we also borrowed `correlation layer` from [flownet2_tf](https://github.com/sampepose/flownet2-tf).
+
+This repo is largely inherited from [large-scale-curiosity](https://github.com/openai/large-scale-curiosity), and we also borrowed `correlation layer` from [flownet2_tf](https://github.com/sampepose/flownet2-tf).
+
+-----
+
+[Flow-based Intrinsic Curiosity Module](https://arxiv.org/abs/1905.10071)  
+[Hsuan-Kung Yang](https://hellochick.github.io/)*, Po-Han Chiang*, Min-Fong Hong, and Chun-Yi Lee (* equal contributions)  
+ElsaLab, National Tsing Hua University  
+In [IJCAI'20 main track](https://ijcai20.org/) and [ICLR'19 TARL workshop](https://tarl2019.github.io/)
+
+
 
 ### Dependencies
 * Python3.5
