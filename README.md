@@ -65,13 +65,15 @@ python run.py --feat_learning flowS --env SeaquestNoFrameskip-v4 --seed 666
 
 ### Citation
 If you find this paper or code implementation helpful, please consider to cite:
+```
     @article{flowbasedcuriosity2019,
         Author = {Hsuan-Kung Yang, Po-Han Chiang, Min-Fong Hong and Chun-Yi Lee.},
         Title = {Exploration via Flow-Based Intrinsic Rewards},
         Booktitle = {arXiv:1905.10071},
         Year = {2019}
     }
-    
+```
+
 ### Reference
     @inproceedings{largeScaleCuriosity2018,
         Author = {Burda, Yuri and Edwards, Harri and
