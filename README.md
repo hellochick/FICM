@@ -19,7 +19,7 @@ This repo is largely inherited from [large-scale-curiosity](https://github.com/o
 
 -----
 
-[Flow-based Intrinsic Curiosity Module](https://arxiv.org/abs/1905.10071)  
+[Flow-based Intrinsic Curiosity Module](https://www.ijcai.org/Proceedings/2020/286)  
 [Hsuan-Kung Yang*](https://hellochick.github.io/), Po-Han Chiang*, Min-Fong Hong, and Chun-Yi Lee (* equal contributions)  
 ElsaLab, National Tsing Hua University  
 In [IJCAI'20 main track](https://ijcai20.org/) and [ICLR'19 TARL workshop](https://tarl2019.github.io/)
