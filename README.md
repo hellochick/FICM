@@ -81,7 +81,6 @@ If you find this paper or code implementation helpful, please consider to cite:
   doi       = {10.24963/ijcai.2020/286},
   url       = {https://doi.org/10.24963/ijcai.2020/286},
 }
-
 ```
 
 ### Reference
