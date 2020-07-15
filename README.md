@@ -4,8 +4,6 @@
 <img src="./imgs/workflow.jpg" width="800"></img>
 </center>
 
-[![HitCount](http://hits.dwyl.com/hellochick/FICM.svg)](http://hits.dwyl.com/hellochick/FICM)  
-
 ### [[Paper]](https://www.ijcai.org/Proceedings/2020/286) [[Demo Video]](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be) [[Reddit Discuss]](https://www.reddit.com/r/MachineLearning/comments/bu05ua/p_playing_supermario_bros_without_knowing_any/) 
 
 
