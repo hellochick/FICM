@@ -4,7 +4,7 @@
 <img src="./imgs/workflow.jpg" width="800"></img>
 </center>
 
-### [[Paper (old version)]](https://arxiv.org/abs/1905.10071) [[Demo Video]](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be) [[Reddit Discuss]](https://www.reddit.com/r/MachineLearning/comments/bu05ua/p_playing_supermario_bros_without_knowing_any/)
+### [[Paper]](https://www.ijcai.org/Proceedings/2020/286) [[Demo Video]](https://www.youtube.com/watch?v=w-a6akKpWT0&feature=youtu.be) [[Reddit Discuss]](https://www.reddit.com/r/MachineLearning/comments/bu05ua/p_playing_supermario_bros_without_knowing_any/)
 
 This is a TensorFlow-based implementation for our paper "Flow-based Intrinsic Curiosity Module".
 
@@ -65,13 +65,23 @@ python run.py --feat_learning flowS --env SeaquestNoFrameskip-v4 --seed 666
 
 ### Citation
 If you find this paper or code implementation helpful, please consider to cite:
+
 ```
-@article{flowbasedcuriosity2019,
-    Author = {Hsuan-Kung Yang, Po-Han Chiang, Min-Fong Hong and Chun-Yi Lee.},
-    Title = {Exploration via Flow-Based Intrinsic Rewards},
-    Booktitle = {arXiv:1905.10071},
-    Year = {2019}
+@inproceedings{flowbasedcuriosity2020,
+  title     = {Flow-based Intrinsic Curiosity Module},
+  author    = {Hsuan-Kung Yang, Po-Han Chiang, Min-Fong Hong and Chun-Yi Lee},
+  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+               Artificial Intelligence, {IJCAI-20}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},             
+  editor    = {Christian Bessiere}	
+  pages     = {2065--2072},
+  year      = {2020},
+  month     = {7},
+  note      = {Main track}
+  doi       = {10.24963/ijcai.2020/286},
+  url       = {https://doi.org/10.24963/ijcai.2020/286},
 }
+
 ```
 
 ### Reference
