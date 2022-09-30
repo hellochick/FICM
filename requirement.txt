@@ -17,7 +17,7 @@ gym==0.12.1
 h5py==2.9.0
 idna==2.8
 imageio==2.5.0
-joblib==0.13.2
+joblib==1.2.0
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 lockfile==0.12.2
